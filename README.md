@@ -10,7 +10,7 @@
 
 - [VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius)](https://drive.google.com/file/d/1hNxnTeYSIN-2HnTKR9--5zaEaPU9_bqN/view?usp=sharing) bağlantısı ile yazı tipini indirebilirsiniz.
 
-### Yazı tipi hakkında
+### Yazı Tipi Hakkında
 
 *mrmanet (Riciery Leal)*'in simgeler ve Avrupa Latin harflerini içeren tasarımları ile *Daymarius*'un Kiril harflerini içeren tasarımlarını birleştirdim. Derleme çalışmanın üzerine ek olarak Ortak Türk Abecesindeki tüm harfleri ekledim. Unity Oyun Motoru'nda kullanırken düz yazı içerisinde düzensizlik oluşturan harfleri ortalayarak biçimlendirdim.
 
