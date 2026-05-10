@@ -10,7 +10,7 @@
 
 - You can download the font via the link [VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius)](https://drive.google.com/file/d/1hNxnTeYSIN-2HnTKR9--5zaEaPU9_bqN/view?usp=sharing).
 
-### About the font
+### About The Font
 
 I combined *mrmanet (Riciery Leal)*'s designs of characters and European Latin letters, with *Daymarius*' designs of Cyrillic letters. In addition to this compilation, I added all the letters of the Common Turkic Alphabet. I edited by centering the characters which causing irregularities within the plain text when its used in Unity Game Engine.
 
