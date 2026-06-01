@@ -1,4 +1,4 @@
-# VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius)
+## VCR_OSD_Mono_with_Turkic_Cyrillic_(mrmanet_mrtcnbykl_Daymarius)
 
 <p align="center">
     <a href="README.md">Türkçe</a>
@@ -25,5 +25,6 @@ Onların çalışmaları:
 - [VCR OSD Mono [RUS by Daymarius]](https://online-fonts.com/fonts/vcr-osd-mono-rus-daymarius)
 
 
-### *mrtcnbykl*
+
+## *mrtcnbykl*
 *[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile öteki çalışmalarıma ulaşabilirsiniz.*
