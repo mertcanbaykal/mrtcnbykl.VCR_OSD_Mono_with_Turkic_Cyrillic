@@ -23,3 +23,7 @@ Benim eklediğim Türk harflerini herkes düşlediği biçimde kullanabilir, anc
 Onların çalışmaları:
 - [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font)
 - [VCR OSD Mono [RUS by Daymarius]](https://online-fonts.com/fonts/vcr-osd-mono-rus-daymarius)
+
+
+### *mrtcnbykl*
+*[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile öteki çalışmalarıma ulaşabilirsiniz.*
