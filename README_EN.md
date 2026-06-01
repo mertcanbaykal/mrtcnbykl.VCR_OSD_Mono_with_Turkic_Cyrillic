@@ -24,3 +24,7 @@ Everyone is free to use the Turkish letters I added in any way they desire, howe
 Their work:
 - [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font)
 - [VCR OSD Mono [RUS by Daymarius]](https://online-fonts.com/fonts/vcr-osd-mono-rus-daymarius)
+
+
+### *mrtcnbykl*
+*You can access my other works via the link [mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl)*
