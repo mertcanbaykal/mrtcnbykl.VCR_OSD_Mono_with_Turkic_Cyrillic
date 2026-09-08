@@ -12,7 +12,7 @@
 
 ### About The Font
 
-I combined *mrmanet (Riciery Leal)*'s designs of characters and European Latin letters, with *Daymarius*' designs of Cyrillic letters. In addition to this compilation, I added all the letters of the Common Turkic Alphabet. I edited by centering the characters which causing irregularities within the plain text when its used in Unity Game Engine.
+I combined *mrmanet (Riciery Leal)*'s designs of characters and European Latin letters, with *Daymarius*' designs of Cyrillic letters. In addition to this compilation, I added all the letters of the Common Turkic Alphabet. I formatted the characters that caused irregularities within the plain text when its used in Unity Game Engine by centering them.
 
 Common Turkic Alphabet: [https://en.wikipedia.org/wiki/Common_Turkic_alphabet](https://en.wikipedia.org/wiki/Common_Turkic_alphabet)
 
